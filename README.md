@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 i'm currently doing my master in cybersecurity<br>building AI and ML knowledge this year<br>pentest and soc fundamentals <br>open for reasearch<br>
 
 
